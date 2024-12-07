@@ -2,8 +2,10 @@
 I'm currently working on SQL-Server<br>I'm looking to collaborate on Game development<br>I'm looking for help with Game development<br>I'm currently learning Software Engineering<br>Email : notmuzammil1@gmail.com
 
 # 📃 Certificates:
-Google Soft Skills Program (PAFLA)<br>
-Advanced Diploma In Software Engineering (ADSE) Aptech-Pakistan<br>
+<ul>
+  <li>Google Soft Skills Program (PAFLA)<br></li>
+<li>Advanced Diploma In Software Engineering (ADSE) Aptech-Pakistan<br></li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61570158389266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_muzammil_n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeNest674) 
