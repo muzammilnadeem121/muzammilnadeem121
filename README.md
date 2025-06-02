@@ -1,6 +1,6 @@
 # HELLO My name is Muzammil Nadeem 😎
 # 💫 About Me:
-I'm currently working on C# (.NET Framework)<br>I'm looking to collaborate on Game development<br>I'm looking for help with Game development<br>I'm currently learning Software Engineering<br>Email : notmuzammil1@gmail.com
+I'm currently working on ASP.Net Core<br>I'm looking to collaborate on Game development<br>I'm looking for help with Game development<br>I'm currently learning Software Engineering<br>Email : notmuzammil1@gmail.com
 
 # 📃 Certificates:
 <ul>
