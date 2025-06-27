@@ -9,7 +9,7 @@ I'm currently working on ASP.Net Core<br>I'm looking to collaborate on Game deve
 </ul>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61570158389266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_muzammil_n)![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user?style=for-the-badge&logoColor=%23ffffff&label=Twitter&labelColor=%23000000&color=%23000000)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61570158389266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_muzammil_n)![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/muzammil_n79339?style=for-the-badge&logoColor=%23ffffff&label=Twitter&labelColor=%23000000&color=%23000000)
 
 
 # 💻 Tech Stack:
