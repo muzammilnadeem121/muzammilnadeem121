@@ -1,6 +1,6 @@
 # HELLO, My name is [Muzammil Nadeem](https://portfolio-muzammilnadeem121s-projects.vercel.app/) 😎
 ## 💫 About Me:
-I'm currently working on Flutter<br>I'm looking to collaborate on Flutter<br>I'm looking for help with Game development<br>I'm currently learning React.js<br>Email : notmuzammil1@gmail.com
+I'm currently working on MERN<br>I'm looking for help with Game development<br>I'm currently learning Python<br>Email : notmuzammil1@gmail.com
 
 ## 📃 Certificates:
 <ul>
